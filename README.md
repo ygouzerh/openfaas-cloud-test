@@ -1,0 +1,3 @@
+# openfaas-cloud-test
+
+test
